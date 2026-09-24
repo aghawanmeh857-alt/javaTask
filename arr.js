@@ -88,11 +88,7 @@ while (selectedFood === null) {
 
 
 
-document.write("<h2>Selected Food</h2>");
-
-for (let key in selectedFood) {
-    document.write(key + ": " + selectedFood[key] + "<br>");
-}
+ 
 
 
 
